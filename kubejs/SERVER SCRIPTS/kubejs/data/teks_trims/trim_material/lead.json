@@ -1,0 +1,9 @@
+{
+  "asset_name": "lead",
+  "description": {
+    "color": "#9489c9",
+    "translate": "trim_material.teks_trims.lead"
+},
+  "ingredient": "immersiveengineering:ingot_lead",
+  "item_model_index": 0.826
+}

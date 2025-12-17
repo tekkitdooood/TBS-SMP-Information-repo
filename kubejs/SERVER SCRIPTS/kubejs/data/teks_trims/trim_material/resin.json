@@ -1,0 +1,9 @@
+{
+  "asset_name": "resin",
+  "description": {
+    "color": "#91a784",
+    "translate": "trim_material.teks_trims.resin"
+},
+  "ingredient": "kubejs:tekkium_doooodgot",
+  "item_model_index": 0.832
+}

@@ -1,0 +1,26 @@
+ServerEvents.recipes(event => {
+    event.custom({
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+            "III",
+            "BRB",
+            "III"
+        ],
+        "key": {
+            "B": {
+            "item": "minecraft:bucket"
+            },
+            "I": {
+            "tag": "c:ingots/iron"
+            },
+            "R": {
+            "tag": "c:dusts/redstone"
+            }
+        },
+        "result": {
+            "id": "pipez:fluid_pipe",
+            "count": 6
+        }
+        }
+    )
+})

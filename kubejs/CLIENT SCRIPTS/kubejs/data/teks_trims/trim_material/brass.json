@@ -1,0 +1,9 @@
+{
+  "asset_name": "brass",
+  "description": {
+    "color": "#F8C761",
+    "translate": "trim_material.teks_trims.brass"
+},
+  "ingredient": "create:brass_ingot",
+  "item_model_index": 0.822
+}

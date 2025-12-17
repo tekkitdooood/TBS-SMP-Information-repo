@@ -1,0 +1,13 @@
+{
+  "values": [
+	"electrodynamics:ingottin",
+	"create:brass_ingot",
+	"create:rose_quartz",
+	"create:shadow_steel",
+	"create:refined_radiance",
+	"immersiveengineering:ingot_steel",
+	"immersiveengineering:ingot_uranium",
+	"electrodynamics:ingotlead",
+	"create:experience_nugget"
+    ]
+}

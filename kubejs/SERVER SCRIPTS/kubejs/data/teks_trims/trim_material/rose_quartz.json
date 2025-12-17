@@ -1,0 +1,9 @@
+{
+  "asset_name": "rose_quartz",
+  "description": {
+    "color": "#e5e5dd",
+    "translate": "trim_material.teks_trims.rose_quartz"
+},
+  "ingredient": "create:rose_quartz",
+  "item_model_index": 0.824
+}

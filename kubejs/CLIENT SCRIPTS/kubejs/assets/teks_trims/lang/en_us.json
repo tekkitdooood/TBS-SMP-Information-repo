@@ -1,0 +1,13 @@
+{
+    "trim_material.teks_trims.tin": "Tin Material",
+    "trim_material.teks_trims.brass": "Brass Material",
+    "trim_material.teks_trims.steel": "Steel Material",
+    "trim_material.teks_trims.rose_quartz": "Rose Quartz Material",
+    "trim_material.teks_trims.uranium": "Uranium Material",
+    "trim_material.teks_trims.lead": "Lead Material",
+    "trim_material.teks_trims.experience_nugget": "Experience Nugget Material",
+    "trim_material.teks_trims.shadow_steel": "Shadow Steel Material",
+    "trim_material.teks_trims.refined_radiance": "Refined Radiance Material",
+    "trim_material.teks_trims.hslasteel": "HSLA Steel Material",
+    "trim_material.teks_trims.resin": "Resin Material"
+}

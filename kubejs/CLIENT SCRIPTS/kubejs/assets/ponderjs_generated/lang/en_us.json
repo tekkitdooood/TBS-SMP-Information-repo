@@ -1,0 +1,12 @@
+{
+  "smp.ponder.tag.granite_gen": "Granite Generator",
+  "smp.ponder.tag.granite_gen.description": "A cobblestone generator, but for granite.",
+  "smp.ponder.tag.andesite_gen": "Andesite Generator",
+  "smp.ponder.tag.andesite_gen.description": "A cobblestone generator, but for andesite.",
+  "smp.ponder.tag.diorite_gen": "Diorite Generator",
+  "smp.ponder.tag.diorite_gen.description": "A cobblestone generator, but for diorite.",
+  "smp.ponder.tag.tuff_gen": "Tuff Generator",
+  "smp.ponder.tag.tuff_gen.description": "A cobblestone generator, but for tuff.",
+  "smp.ponder.tag.cobblestone_gen": "Cobblestone Generator",
+  "smp.ponder.tag.cobblestone_gen.description": "A cobblestone generator."
+}

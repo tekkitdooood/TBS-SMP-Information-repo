@@ -1,0 +1,26 @@
+ServerEvents.recipes(event => {
+    event.custom({
+        "type": "immersiveengineering:shaped_fluid",
+        "category": "misc",
+        "key": {
+            "b": {
+            "type": "immersiveengineering:fluid_stack",
+            "amount": 1000,
+            "tag": "c:phenolic_resin"
+            },
+            "w": {
+            "tag": "c:dusts/wood"
+            }
+        },
+        "pattern": [
+            "www",
+            "wbw",
+            "www"
+        ],
+        "result": {
+            "count": 2,
+            "id": "immersiveengineering:fiberboard"
+        }
+        }
+    )
+})

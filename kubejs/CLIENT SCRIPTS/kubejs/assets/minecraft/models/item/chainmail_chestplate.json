@@ -1,0 +1,140 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "model": "minecraft:item/chainmail_chestplate_quartz_trim",
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "minecraft:item/chainmail_chestplate_iron_trim",
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "minecraft:item/chainmail_chestplate_netherite_trim",
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "minecraft:item/chainmail_chestplate_redstone_trim",
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "minecraft:item/chainmail_chestplate_copper_trim",
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "minecraft:item/chainmail_chestplate_gold_trim",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "minecraft:item/chainmail_chestplate_emerald_trim",
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "minecraft:item/chainmail_chestplate_diamond_trim",
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "teks_trims:item/chainmail_chestplate_tin_trim",
+      "predicate": {
+        "trim_type": 0.821
+      }
+    },
+    {
+      "model": "teks_trims:item/chainmail_chestplate_brass_trim",
+      "predicate": {
+        "trim_type": 0.822
+      }
+    },
+    {
+      "model": "teks_trims:item/chainmail_chestplate_steel_trim",
+      "predicate": {
+        "trim_type": 0.823
+      }
+    },
+    {
+      "model": "teks_trims:item/chainmail_chestplate_rose_quartz_trim",
+      "predicate": {
+        "trim_type": 0.824
+      }
+    },
+    {
+      "model": "teks_trims:item/chainmail_chestplate_uranium_trim",
+      "predicate": {
+        "trim_type": 0.825
+      }
+    },
+    {
+      "model": "teks_trims:item/chainmail_chestplate_lead_trim",
+      "predicate": {
+        "trim_type": 0.826
+      }
+    },
+    {
+      "model": "teks_trims:item/chainmail_chestplate_experience_nugget_trim",
+      "predicate": {
+        "trim_type": 0.827
+      }
+    },
+    {
+      "model": "teks_trims:item/chainmail_chestplate_shadow_steel_trim",
+      "predicate": {
+        "trim_type": 0.828
+      }
+    },
+    {
+      "model": "teks_trims:item/chainmail_chestplate_refined_radiance_trim",
+      "predicate": {
+        "trim_type": 0.829
+      }
+    },
+    {
+      "model": "teks_trims:item/chainmail_chestplate_notexture_trim",
+      "predicate": {
+        "trim_type": 0.83
+      }
+    },
+    {
+      "model": "teks_trims:item/chainmail_chestplate_hslasteel_trim",
+      "predicate": {
+        "trim_type": 0.831
+      }
+    },
+    {
+      "model": "teks_trims:item/chainmail_chestplate_resin_trim",
+      "predicate": {
+        "trim_type": 0.832
+      }
+    },
+    {
+      "model": "minecraft:item/chainmail_chestplate_lapis_trim",
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "minecraft:item/chainmail_chestplate_amethyst_trim",
+      "predicate": {
+        "trim_type": 1.0
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/chainmail_chestplate"
+  }
+}

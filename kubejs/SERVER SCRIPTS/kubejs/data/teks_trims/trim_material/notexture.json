@@ -1,0 +1,9 @@
+{
+  "asset_name": "notexture",
+  "description": {
+    "color": "#CA00CA",
+    "translate": "trim_material.teks_trims.notexture"
+},
+  "ingredient": "thebrokenscript:n",
+  "item_model_index": 0.830
+}

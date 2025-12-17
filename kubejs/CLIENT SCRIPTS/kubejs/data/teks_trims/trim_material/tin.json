@@ -1,0 +1,9 @@
+{
+  "asset_name": "tin",
+  "description": {
+    "color": "#76AABD",
+    "translate": "trim_material.teks_trims.tin"
+},
+  "ingredient": "electrodynamics:ingottin",
+  "item_model_index": 0.821
+}

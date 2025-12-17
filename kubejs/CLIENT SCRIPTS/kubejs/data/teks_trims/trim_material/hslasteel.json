@@ -1,0 +1,9 @@
+{
+  "asset_name": "hslasteel",
+  "description": {
+    "color": "#91a784",
+    "translate": "trim_material.teks_trims.hslasteel"
+},
+  "ingredient": "electrodynamics:ingothslasteel",
+  "item_model_index": 0.831
+}

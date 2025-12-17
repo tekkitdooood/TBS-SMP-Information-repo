@@ -1,0 +1,9 @@
+{
+  "asset_name": "uranium",
+  "description": {
+    "color": "#91a784",
+    "translate": "trim_material.teks_trims.uranium"
+},
+  "ingredient": "immersiveengineering:ingot_uranium",
+  "item_model_index": 0.825
+}

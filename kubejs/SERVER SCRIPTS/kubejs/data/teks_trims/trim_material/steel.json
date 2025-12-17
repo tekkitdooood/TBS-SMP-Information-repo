@@ -1,0 +1,9 @@
+{
+  "asset_name": "steel",
+  "description": {
+    "color": "#686868",
+    "translate": "trim_material.teks_trims.steel"
+},
+  "ingredient": "immersiveengineering:ingot_steel",
+  "item_model_index": 0.823
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "refined_radiance",
+  "description": {
+    "color": "#BB9CE2",
+    "translate": "trim_material.teks_trims.refined_radiance"
+},
+  "ingredient": "create:refined_radiance",
+  "item_model_index": 0.829
+}

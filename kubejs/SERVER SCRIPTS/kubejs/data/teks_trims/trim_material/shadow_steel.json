@@ -1,0 +1,9 @@
+{
+  "asset_name": "shadow_steel",
+  "description": {
+    "color": "#48415a",
+    "translate": "trim_material.teks_trims.shadow_steel"
+},
+  "ingredient": "create:shadow_steel",
+  "item_model_index": 0.828
+}

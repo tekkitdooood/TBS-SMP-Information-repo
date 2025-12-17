@@ -1,0 +1,61 @@
+{
+  "replace": false,
+  "sources": [
+    {
+	"type": "paletted_permutations",
+        "textures": [
+                "trims/models/armor/coast",
+                "trims/models/armor/coast_leggings",
+                "trims/models/armor/sentry",
+                "trims/models/armor/sentry_leggings",
+                "trims/models/armor/dune",
+                "trims/models/armor/dune_leggings",
+                "trims/models/armor/wild",
+                "trims/models/armor/wild_leggings",
+                "trims/models/armor/ward",
+                "trims/models/armor/ward_leggings",
+                "trims/models/armor/eye",
+                "trims/models/armor/eye_leggings",
+                "trims/models/armor/vex",
+                "trims/models/armor/vex_leggings",
+                "trims/models/armor/tide",
+                "trims/models/armor/tide_leggings",
+                "trims/models/armor/snout",
+                "trims/models/armor/snout_leggings",
+                "trims/models/armor/rib",
+                "trims/models/armor/rib_leggings",
+                "trims/models/armor/spire",
+                "trims/models/armor/spire_leggings",
+                "trims/models/armor/wayfinder",
+                "trims/models/armor/wayfinder_leggings",
+                "trims/models/armor/shaper",
+                "trims/models/armor/shaper_leggings",
+                "trims/models/armor/silence",
+                "trims/models/armor/silence_leggings",
+                "trims/models/armor/raiser",
+                "trims/models/armor/raiser_leggings",
+                "trims/models/armor/host",
+                "trims/models/armor/host_leggings",
+                "trims/models/armor/flow",
+                "trims/models/armor/flow_leggings",
+                "trims/models/armor/bolt",
+                "trims/models/armor/bolt_leggings"
+			],
+			"palette_key": "trims/color_palettes/trim_palette",
+			"permutations": {
+				"tin": "teks_trims:trims/color_palettes/tin",
+				"shadow_steel": "teks_trims:trims/color_palettes/shadow_steel",
+				"lead": "teks_trims:trims/color_palettes/lead",
+				"rose_quartz": "teks_trims:trims/color_palettes/rose_quartz",
+				"experience_nugget": "teks_trims:trims/color_palettes/experience_nugget",
+				"refined_radiance": "teks_trims:trims/color_palettes/refined_radiance",
+				"steel": "teks_trims:trims/color_palettes/steel",
+				"brass": "teks_trims:trims/color_palettes/brass",
+				"uranium": "teks_trims:trims/color_palettes/uranium",
+				"notexture": "teks_trims:trims/color_palettes/notexture",
+				"hslasteel": "teks_trims:trims/color_palettes/hslasteel",
+				"resin": "teks_trims:trims/color_palettes/resin"
+			}
+		}
+	]
+}
