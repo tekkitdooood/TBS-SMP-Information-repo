@@ -1,4 +1,4 @@
-ServerEvents.recipes(event => {
+/*ServerEvents.recipes(event => {
     event.custom({
         "type": "create:mechanical_crafting",
         "accept_mirrored": true,
@@ -22,4 +22,4 @@ ServerEvents.recipes(event => {
         "show_notification": false
         }
     )
-})
+})*/
