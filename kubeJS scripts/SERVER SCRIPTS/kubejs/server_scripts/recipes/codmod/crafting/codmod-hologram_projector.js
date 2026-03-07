@@ -10,7 +10,7 @@ ServerEvents.recipes(event => {
             I: "minecraft:iron_ingot",
             D: "minecraft:diamond",
             G: "minecraft:tinted_glass",
-            C: "minecrafT:redstone_dust"
+            C: "minecraft:redstone"
         }
     )
 })

@@ -70,6 +70,7 @@ ServerEvents.recipes(event => {
         event.remove({output: 'electrodynamics:rodsteel'})
         event.remove({output: 'electrodynamics:drillheadsteel'})
         event.remove({output: 'electrodynamics:electricdrill'})
+        event.remove({output: `electrodynamics:raw_composite_plating`})
         
 
     

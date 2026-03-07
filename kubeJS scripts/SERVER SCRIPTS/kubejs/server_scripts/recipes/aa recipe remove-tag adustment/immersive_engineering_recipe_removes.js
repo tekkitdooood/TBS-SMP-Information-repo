@@ -1,6 +1,4 @@
 ServerEvents.recipes(event => {
-    const ed = "electrodynamics"
-    
     event.remove({output: `immersiveengineering:chemthrower`})
     event.remove({output: `immersiveengineering:bullet_buckshot`})
     event.remove({output: `immersiveengineering:bullet_he`})
@@ -24,7 +22,6 @@ ServerEvents.recipes(event => {
     event.remove({output: `immersiveengineering:dust_silver`})
     event.remove({output: `immersiveengineering:dust_gold`})
     event.remove({output: `immersiveengineering:graphite_electrode`})
-    event.remove({output: `${ed}:raw_composite_plating`})
     event.remove({id: 'immersiveengineering:crusher/graphite_ingot'})
     event.remove({id: 'immersiveengineering:crusher/red_sandstone'})
     event.remove({id: 'immersiveengineering:crusher/sandstone'})

@@ -12,7 +12,7 @@ StartupEvents.registry('item', event => {
 StartupEvents.registry('block', event => {
     event
         .create('tekkium_bloooock')
-        .displayName('Tekkium Bloooock')
+        .displayName('Depreciated')
         .hardness(5)
         .resistance(1100)
         .requiresTool(false)
@@ -22,7 +22,7 @@ StartupEvents.registry('block', event => {
 
     event
         .create('clear_block')
-        .displayName('Clear Block')
+        .displayName('Depreciated')
         .hardness(1)
         .resistance(1500)
         .requiresTool(false)

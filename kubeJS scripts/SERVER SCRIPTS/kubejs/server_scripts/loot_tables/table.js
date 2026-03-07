@@ -20,7 +20,7 @@ LootJS.modifiers(event => {
     event
         .addEntityModifier(/.*/)
         .addLoot('create:experience_nugget')
-        .randomChance(0.15)
+        .randomChance(0.075)
 
     event
         .addEntityModifier("minecraft:cod")
